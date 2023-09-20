@@ -12,9 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Ganpati Bappa Morya" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+        <iframe src="/GANAPATHI_AARTI.pdf" width="100%" />
       </main>
 
       <Footer />
